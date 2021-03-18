@@ -1,0 +1,7 @@
+{
+    "port": "COM12",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "programmer": "AVRISP mkII",
+    "sketch": "ping_client.ino"
+}
